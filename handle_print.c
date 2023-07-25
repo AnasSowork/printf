@@ -48,5 +48,3 @@ int handle_print(const char *fms, int *ind, va_list list, char buffer[],
     return (prntd_chars);
 }
 
-Message @./Cosfal
-
